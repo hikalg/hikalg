@@ -1,24 +1,35 @@
 ## Hi there, I'm Everest Luong 👋
 
-### ❓ Who I am
+<details>
+<summary>❓ Who I am</summary>
+
 - Born Nam Gia Luong
 - 25 November 2005
 - From Hanoi, VN
 - In Sydney, AU since July 2023 🎉 
+</details>
 
-### 🔧 What I do
+<details>
+<summary>🔧 What I do</summary>
+
 - Studying Software Tech at Macquarie University
 - Critical Ops tournament organizer
 - IELTS coach
 - Tech nerd and weeb
+</details>
 
-### 🏆 What I did
+<details>
+<summary>🏆 What I did</summary>
+
 - Former Leader of [Tran Phu High School (VN) x Catholic Junior College (SG) Exchange Programs](https://thpttranphuhk.hanoi.edu.vn/giao-luu/chuyen-tham-quan-va-giao-luu-tai-truong-catholic-junior-college-cjc-singapore/ct/1659/10788) (2021, 2022) (Vietnamese Link)
 - Former President of [Tran Phu no Hinode](https://www.facebook.com/hinodetranphu) (2022, 2023)
 - IELTS Academic Band 7.5 (Aug 2022, Dec 2022)
 - Microsoft Office Specialist 875/1000 (Dec 2022)
+</details>
 
-### 🧭 What I use
+<details>
+<summary>🧭 What I use</summary>
+
 #### 💻 Laptop
 - **ASUS ROG Zephyrus G14 GA401**
 	* CPU: Ryzen 7 5800HS (8C/16T, up to 4.4GHz)
@@ -42,3 +53,4 @@
 * Redmi Note 10 4G 64GB (White)
 * Samsung Galaxy Tab4 7.0 SM-T230NU
 * Audio: KZ EDX Pro, Sony MDR-EX15AP
+</details>
