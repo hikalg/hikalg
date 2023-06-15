@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi there, I'm Everest Luong 👋
 
+### Who am I
+- Male
+- 25 November 2005
+- From Hanoi, Vietnam :flag_vn:
+- In Sydney, Australia (from 8/7/23)
+
+### 
 <!--
 **hikalg/hikalg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
